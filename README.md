@@ -3,7 +3,7 @@ OpenTroller-RTU
 
 Modbus RTU firmware for BrewTroller and OpenTroller devices developed and sold by Open Source Control Systems.
 
-This is a community project with no affiliation or support from Open Source Control Systems.
+This project is entirely community developed without commercial control. This project is in no way affiliated or supported by Open Source Control Systems.
 
 Target features:
   * Modbus RTU Slave via USB Serial or RS485 bus
